@@ -3,7 +3,7 @@
 ## Install Visual Studio Code
 - Download and Install VSCode
     - Go to [Visual Studio Code website](https://code.visualstudio.com/), download and install the appropriate version of VS Code (macOS vs. Windows x64 vs. Linux x64)
-        - On macOS, it should be a '.zip' file. After unzipping it, the "Visual Studio Code" app will appear in the folder.
+        - On macOS, it should be a __.zip__ file. After unzipping it, the "Visual Studio Code" app will appear in the folder.
 - Open the VS Code app
     - The window should look like the images shown below, but color, theme, toolbar, etc. could be different due to personal settings.
     - *Since I have downloaded VScode before, the welcome page is not empty. It should be different when you first download it.*
@@ -14,7 +14,7 @@
 
 ## Remotely Connecting
 - Account lookup
-    - On macbook, the first step is to look up your course-specific account on https://sdacs.ucsd.edu/~icc/index.php by following the instructions on the webpage.
+    - On macbook, the first step is to look up your course-specific account on [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php) by following the instructions on the webpage.
 - Open a terminal
     - In VSCode, use the shortcut (Ctrl + `) or click Terminal -> New Terminal on the top left menu bar.
     - Using the terminal on your macBook also works.
