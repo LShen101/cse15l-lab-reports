@@ -1,1 +1,1 @@
-![Image](/Users/leica/Documents/GitHub/cse15l-lab-reports/Screen.png)
+![Image](file:///Users/leica/Downloads/Screen.png)
