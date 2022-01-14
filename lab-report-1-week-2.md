@@ -1,1 +1,1 @@
-![Image](file:///Users/leica/Downloads/Screen.png)
+![Image](https://github.com/LShen101/cse15l-lab-reports/blob/main/Screen.png)
