@@ -14,7 +14,7 @@
 
 ## Remotely Connecting
 - Account lookup
-    - On macbook, the first step is to look up your course-specific account on [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php) by following the instructions on the webpage.
+    - On macbook, the first step is to look up your course-specific account on [account lookup tool](https://sdacs.ucsd.edu/~icc/index.php) by following the instructions on the webpage.
 - Open a terminal
     - In VSCode, use the shortcut (Ctrl + `) or click Terminal -> New Terminal on the top left menu bar.
     - Using the terminal on your macBook also works.
