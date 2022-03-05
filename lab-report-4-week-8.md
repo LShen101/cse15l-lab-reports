@@ -1,5 +1,5 @@
 # Lab Report 4
-- Link to [our markdown-parse repository](https://github.com/LShen101/CSE15L-TheLunaMoths)
+- Link to [my markdown-parse repository](https://github.com/LShen101/CSE15L-TheLunaMoths)
 
 - Lint to the [markdown-parse repository we reviewed](https://github.com/yaz067/markdown-parse)
 
