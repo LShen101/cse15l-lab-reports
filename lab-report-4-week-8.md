@@ -1,4 +1,9 @@
 # Lab Report 4
+- Link to [our markdown-parse repository](https://github.com/LShen101/CSE15L-TheLunaMoths)
+
+- Lint to the [markdown-parse repository we reviewed](https://github.com/yaz067/markdown-parse)
+
+
 ## Snippet1
 - Should produce 
 ![right1](Image/snippet1-should.png)
