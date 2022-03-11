@@ -39,5 +39,7 @@
         - The `\` "could display a literal character that would otherwise be used to format text in Markdown." Thus, `\(` and `\)` in this nested parentheses in the link actually means to display `(` or `)`, but my implementation does not consider this situation, it just simply get the indices of `(` and `)` to get the link. 
     - The Fix: 
         - In order to fix this bug, I should add a `while` loop with condition checking whether the character right before the `(` or `)` is the backslash `\` which could escape characters. If the condition is true, the body of the `while` loop then updates the index of `(` or `)` to the next one. The `while` loop would make sure that the result index of `(` or `)` I get would have no `\` right before it. 
+        - Besides adding a while loop, I should also consider the `\` situation when add the link to the `toReturn` ArrayList since the link might be different than the content within `()` in the `.md` file. 
         - The code that should be fixed is commented shown below 
-        ![code2](Image/code2.png)
+        ![code2](Image/code2.png) and 
+        ![code2.1](Image/code2.1.png)
